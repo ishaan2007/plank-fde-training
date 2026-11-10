@@ -10,3 +10,9 @@ coverage/
 *.log
 .vercel/
 .turbo/
+.pnp
+.pnp.*
+out/
+*.pem
+*.tsbuildinfo
+next-env.d.ts
